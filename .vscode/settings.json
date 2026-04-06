@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "material-icon-theme.activeIconPack": "react_redux",
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#292D31",
+    "statusBar.foreground": "#C9C9C9"
+  }
+}
